@@ -1,0 +1,15 @@
+{
+	"instance" : {
+		"pieces:rotate:" : "ShailPatel 10/1/2017 21:59",
+		"r:c:" : "ShailPatel 10/1/2017 21:47",
+		"readFrom:" : "ShailPatel 10/1/2017 21:07",
+		"printBoard" : "ShailPatel 10/1/2017 23:14",
+		"boardRow" : "ShailPatel 9/28/2017 00:45",
+		"initialize" : "ShailPatel 9/28/2017 13:38",
+		"boardMid" : "ShailPatel 9/28/2017 00:52",
+		"boardCol" : "ShailPatel 9/28/2017 00:44",
+		"MoveL:Shape:" : "ShailPatel 9/28/2017 17:47",
+		"diceAdd:" : "ShailPatel 9/28/2017 00:19"
+	},
+	"class" : { }
+}

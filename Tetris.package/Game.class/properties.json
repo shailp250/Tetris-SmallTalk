@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "SimpleSwitchMorph",
+	"category" : "CPS506",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"temporary",
+		"aReadStream",
+		"statements",
+		"board",
+		"diceCollection",
+		"shape"
+	],
+	"name" : "Game",
+	"type" : "normal"
+}
